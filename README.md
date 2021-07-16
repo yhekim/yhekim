@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#1852E4">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<p align="center">My name is Yusuf HEKİM and I'm a CS student at Sakarya University. I want to be a fullstack web developer and working on it. You can contact with me anytime you want. I'd be happy to meet new developers and expand my network.</p>
+<p align="center">My name is Yusuf HEKİM and I graduated from Sakarya University Computer Engineering Department in 2020 as the 2nd.I worked as a junior developer at Teknoliva Informatics Company in Teknokent for 5 months in my senior year.Right after school, I worked at Işık Wood Company for 9 months as a network manager. I want to be a fullstack web developer and working on it. You can contact with me anytime you want. I'd be happy to meet new developers and expand my network.</p>
 <hr>
 <p align="center">
   <b>Let's contact with me!</b>
